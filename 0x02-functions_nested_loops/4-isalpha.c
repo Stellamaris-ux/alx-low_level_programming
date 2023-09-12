@@ -3,8 +3,9 @@
 /**
  * _isalpha - checks for alphabetic character
  *
- * Return: 1 if var is a letter, else return 0
+ * Return: 1 if c is a letter, else return 0
  */
+
 int _isalpha(int c)
 {
 	return ((c >= 97 && c <= 122) || (c >= 65 && c <= 90));
