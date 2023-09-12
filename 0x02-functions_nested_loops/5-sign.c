@@ -5,8 +5,8 @@
  * @x: take int to be checked
  *
  * Return: 1 and prints + if x is greater than zero
- * Return: 0 and prints 0 if x is zero
- * Return: -1 and prints - if x is less than zero
+ * 0 and prints 0 if x is zero
+ * -1 and prints - if x is less than zero
  */
 int print_sign(int x)
 {
