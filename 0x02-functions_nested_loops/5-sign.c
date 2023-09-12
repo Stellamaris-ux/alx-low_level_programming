@@ -2,7 +2,7 @@
 
 /**
  * print_sign - function that prints the sign of a number
- * @x: taked int to be checked
+ * @x: take int to be checked
  *
  * Return: 1 and prints + if x is greater than zero
  * Return: 0 and prints 0 if x is zero
@@ -24,4 +24,3 @@ int print_sign(int x)
 	}
 		return (-1);
 }
-
