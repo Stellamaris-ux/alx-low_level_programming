@@ -2,14 +2,13 @@
 #define DOG_H
 
 /**
- * struct dog - function that stores a dog's basic info
- * @name: First member
- * @age: Second member
- * @owner: Third member
+ * struct dog - struct for a dog's basic info
+ * @name: type char
+ * @age: type float
+ * @owner: type char
  *
- * Description: Longer description
+ * Description: struct to store dog's info
  */
-
 struct dog
 {
 	char *name;
